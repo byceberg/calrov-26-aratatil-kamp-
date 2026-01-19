@@ -9,7 +9,7 @@ Bu görevin asıl amacı Python’daki sınıf sistemini derinlemesine anlamak, 
 
     •	İkinci banka sınıfı ise veritabanı işlemlerini yönetebilmeli, yeni bir üye kaydı oluşturabilmeli ve sizin önceden tanımladığınız bir admin portalından giriş yapıldığı takdirde bir kullanıcıyı silebilmelidir. Sisteme giriş yaparken verilerin kaydedilmiş veritabanı ile kontrol edilip geriye bir cevap döndürmesi için bir metod yazılmalıdır. Kullanıcılar bankaya giriş, yeni üye kaydı oluşturma gibi işlemleri buradan yapacaktır.
 
-2.	Bu sınıflar yazıldıktan sonra oluşabilecek açıklar olacaktır. Bu açıklar fark edilebildiği takdirde kapatılmış bir şekilde yazılmış olmalıdır.
+2.	Bu sınıflar yazıldıktan sonra oluşabilecek açıklar olacaktır. Bu açıklar fark edilebildiği takdirde kapatılmış bir şekilde yazılmış olmalıdır.(Bu sınıflar iki farklı kullanıcı tipi için de olabilir)
 
 3.	Üyelerin sahip olacağı 3 temel özellik vardır: 
 1.	İsim
