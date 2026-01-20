@@ -19,6 +19,7 @@ Bu görevin asıl amacı Python’daki sınıf sistemini derinlemesine anlamak, 
 4.	Bu kodlar tamamlandıktan sonra test edilecektir.
 5.	Veritabanını sqlite3 kütüphanesini kullanarak yapabilirsiniz.
 6.	Admin girişinde kullanıcı adı 'admin' şifre 'root123' olmalıdır.
+7.	İsterseniz ve zamanınız kalırsa bu altyapıyı kolay ve anlaşılır bir biçimde kontrol edebileceğemiz şekilde bir arayüze de bağlayabilirsiniz.
 
 # İletişim Kontrol Ödevi
 Bu görevin asıl amacı görev altyapılarını oluştururken veya görev kodlarını yazarken pymavlink kütüphanesi üzerindeki yetkinliğinizi arttırmak ve sizi bu iki konuda bir adım daha öteye taşımaktır.
