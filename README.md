@@ -12,11 +12,12 @@ Bu görevin asıl amacı Python’daki sınıf sistemini derinlemesine anlamak, 
 2.	Bu sınıflar yazıldıktan sonra oluşabilecek açıklar olacaktır. Bu açıklar fark edilebildiği takdirde kapatılmış bir şekilde yazılmış olmalıdır.(Bu sınıflar iki farklı kullanıcı tipi için de olabilir)
 
 3.	Üyelerin sahip olacağı 3 temel özellik vardır: 
-1.	İsim
-2.	Soyisim
-3.	Bakiye
+   1.	İsim
+   2.	Soyisim
+   3.	Bakiye
 
 4.	Bu kodlar tamamlandıktan sonra test edilecektir.
+5.	Veritabanını sqlite3 kütüphanesini kullanarak yapabilirsiniz.
 
 # İletişim Kontrol Ödevi
 Bu görevin asıl amacı görev altyapılarını oluştururken veya görev kodlarını yazarken pymavlink kütüphanesi üzerindeki yetkinliğinizi arttırmak ve sizi bu iki konuda bir adım daha öteye taşımaktır.
